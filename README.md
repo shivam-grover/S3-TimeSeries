@@ -1,6 +1,6 @@
 <div align="center">
 
-[![PyPI version](https://badge.fury.io/py/S3.svg)](https://badge.fury.io/py/S3)
+[![PyPI version](https://badge.fury.io/py/S3-timeseries.svg)](https://badge.fury.io/py/S3-timeseries)
 [![Arxiv](https://img.shields.io/static/v1?label=arXiv&message=2405.20082&color=B31B1B&logo=arXiv)](https://arxiv.org/abs/2405.20082)
 [![NeurIPS](https://img.shields.io/static/v1?label=NeurIPS&message=Poster&color=B31B1B&logo=arXiv)](https://nips.cc/virtual/2024/poster/92935)
 [![License: MIT](https://img.shields.io/badge/License-Apache%202.0-blue)](https://opensource.org/license/apache-2-0)
